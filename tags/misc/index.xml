@@ -20,5 +20,18 @@ cheatsheet.pdf: capture.pcap: Following the instructions and the PDF cheat sheet
 from scapy.</description>
     </item>
     
+    <item>
+      <title>FCSC 2024 - Prison break serie - Misc</title>
+      <link>https://konta-lb.fr/posts/fcsc-2024-prison-break-serie-misc/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://konta-lb.fr/posts/fcsc-2024-prison-break-serie-misc/</guid>
+      <description>Introduction Carlos, obviously innocent, is locked up in a high-security prison. The prison&amp;rsquo;s building management system (BMS) is controlled by a programmable logic controller (PLC). Access to this PLC was made possible by an implant concealed during a previous operation, which can be accessed from outside the prison via (UDP protocol):
+nc -u prison-break.france-cybersecurity-challenge.fr 47808
+Similarly, read-only access to the scada supervision interface is possible from :
+https://prison-break.france-cybersecurity-challenge.fr/
+To help Carlos escape, follow the instructions for the following checkpoints carefully:</description>
+    </item>
+    
   </channel>
 </rss>
