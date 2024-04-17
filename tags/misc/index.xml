@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Misc on Konta</title>
+    <link>https://konta-lb.fr/tags/misc/</link>
+    <description>Recent content in Misc on Konta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Lucas Brohet</copyright>
+    <lastBuildDate>Sun, 14 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://konta-lb.fr/tags/misc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FCSC 2024 - Illuminated - Misc</title>
+      <link>https://konta-lb.fr/posts/fcsc-2024-illuminated-misc/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://konta-lb.fr/posts/fcsc-2024-illuminated-misc/</guid>
+      <description>Introduction A lighting designer challenges you to reconstruct a video screen animation stored on her DMX recorder. You then take a network capture (capture.pcap) by connecting to her recorder via Ethernet.
+To help you, she gives you an annotated extract from the documentation for her video screen (cheatsheet.pdf).
+cheatsheet.pdf: capture.pcap: Following the instructions and the PDF cheat sheet, I retrieve each LED and display it using a Python program.
+from scapy.</description>
+    </item>
+    
+  </channel>
+</rss>
