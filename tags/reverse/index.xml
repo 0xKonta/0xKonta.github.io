@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reverse on Konta</title>
+    <link>https://konta-lb.fr/tags/reverse/</link>
+    <description>Recent content in Reverse on Konta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Lucas Brohet</copyright>
+    <lastBuildDate>Sun, 14 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://konta-lb.fr/tags/reverse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FCSC 2024 - Fifty-Shades-of-White - Reverse</title>
+      <link>https://konta-lb.fr/posts/fcsc-2024-fifty-shades-of-white-reverse/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://konta-lb.fr/posts/fcsc-2024-fifty-shades-of-white-reverse/</guid>
+      <description>Introduction You are now Jesse Pinkman. You&amp;rsquo;re currently on the outs with Walter White and want to do something nasty to him.
+You are asked to write a keygen for the binary that Walter has designed to restrict access to his &amp;ldquo;professional&amp;rdquo; data. The flag will appear after 50 successive validations.
+We are provided with a binary and a txt file.
+The chall remote then asks us to validate 50 users, so we&amp;rsquo;ll need to find a way to reverse validate() correctly in order to generate a valid serial for each user.</description>
+    </item>
+    
+  </channel>
+</rss>
