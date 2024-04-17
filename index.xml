@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Konta</title>
+    <link>https://konta-lb.fr/</link>
+    <description>Recent content on Konta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Lucas Brohet</copyright>
+    <lastBuildDate>Sun, 14 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://konta-lb.fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CTF Ranking</title>
+      <link>https://konta-lb.fr/ranking/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://konta-lb.fr/ranking/</guid>
+      <description> Event rank Type Date HEXA OSINT CTF V3 12/127 Teams 2024-04-12 FCSC 97/1434 Solo 2024-04-05 Disparue(s) 25/191 Teams 2023-11-04 404 CTF 196/2856 Solo 2023-06-14 RITSEC CTF 56/712 Teams 2023-04-02 UACTF 213/431 Teams 2022-08-01 BDSec CTF 168/542 Teams 2022-06-21 </description>
+    </item>
+    
+    <item>
+      <title>FCSC 2024 - Horreur, Malheur - Forensic</title>
+      <link>https://konta-lb.fr/posts/fcsc-2024-horreur-malheur-forensic/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://konta-lb.fr/posts/fcsc-2024-horreur-malheur-forensic/</guid>
+      <description>Introduction You&amp;rsquo;ve just been hired as Information Systems Security Manager (ISSM) for a strategic company.
+When you arrive at your office on your first day, you realise that your predecessor has left you a USB stick with a note on it: VPN compromised (integrity). Version 22.3R1 b1647.
+Note: The first part (Encrypted Archive) unlocks the other parts, with the exception of the second part (Initial Access) which can be processed independently.</description>
+    </item>
+    
+    <item>
+      <title>FCSC 2024 - Silence - Forensic</title>
+      <link>https://konta-lb.fr/posts/fcsc-2024-silence-forensic/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://konta-lb.fr/posts/fcsc-2024-silence-forensic/</guid>
+      <description>Introduction You&amp;rsquo;re Bob. An old friend sent you a flag for a future FCSC a few years ago, before you lost touch. She reminds you that she is now part of the FCSC organisation. She has been able to set up this flag and offers to play it for you.
+The problem is that the flag has been left in an SMS backup in your SMS application of the time, Silence.</description>
+    </item>
+    
+    <item>
+      <title>Whoami</title>
+      <link>https://konta-lb.fr/whoami/</link>
+      <pubDate>Sat, 24 Aug 2019 17:51:42 +0000</pubDate>
+      
+      <guid>https://konta-lb.fr/whoami/</guid>
+      <description>Hi everyone, I’m Konta, french guy and passionate of cybersecurity. Here you will find some stuff related to infosec. I’m particularly interested in Offensive content (especially binary exploitation / CTI) and Forensics.
+Hope you will enjoy my posts :)
+If you want to contact me, send me a message through my links in the main page or on Discord (Konta_7z).</description>
+    </item>
+    
+  </channel>
+</rss>

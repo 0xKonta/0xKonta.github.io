@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Konta</title>
+    <link>https://konta-lb.fr/posts/</link>
+    <description>Recent content in Posts on Konta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Lucas Brohet</copyright>
+    <lastBuildDate>Sun, 14 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://konta-lb.fr/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FCSC 2024 - Horreur, Malheur - Forensic</title>
+      <link>https://konta-lb.fr/posts/fcsc-2024-horreur-malheur-forensic/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://konta-lb.fr/posts/fcsc-2024-horreur-malheur-forensic/</guid>
+      <description>Introduction You&amp;rsquo;ve just been hired as Information Systems Security Manager (ISSM) for a strategic company.
+When you arrive at your office on your first day, you realise that your predecessor has left you a USB stick with a note on it: VPN compromised (integrity). Version 22.3R1 b1647.
+Note: The first part (Encrypted Archive) unlocks the other parts, with the exception of the second part (Initial Access) which can be processed independently.</description>
+    </item>
+    
+    <item>
+      <title>FCSC 2024 - Silence - Forensic</title>
+      <link>https://konta-lb.fr/posts/fcsc-2024-silence-forensic/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://konta-lb.fr/posts/fcsc-2024-silence-forensic/</guid>
+      <description>Introduction You&amp;rsquo;re Bob. An old friend sent you a flag for a future FCSC a few years ago, before you lost touch. She reminds you that she is now part of the FCSC organisation. She has been able to set up this flag and offers to play it for you.
+The problem is that the flag has been left in an SMS backup in your SMS application of the time, Silence.</description>
+    </item>
+    
+  </channel>
+</rss>
