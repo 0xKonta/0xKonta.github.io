@@ -285,8 +285,8 @@ Note: The first part (Encrypted Archive) unlocks the other parts, with the excep
 <p>You have managed to decrypt the archive. It would appear that this archive contains another archive, which contains the result of the equipment integrity check script.</p>
 <p>Using this last archive and the logs, you are now looking for traces of persistence deposited and used by the attacker.</p>
 </blockquote>
-<p>Ici on commence à se douter que le challenge se base sur des modes opératoires connus, surtout si on a fait le lien avec HAFNIUM sur SOC Simulator. En cherchant la CVE on tombe sur un article de <a href="https://www.mandiant.com/resources/blog/investigating-ivanti-zero-day-exploitation">Mandiant</a> qui parle de la vulnérabilité.</p>
-<p>L’UNC5221 utilise un web-shell custom qu’il place dans l’outil python <code>CAV</code>. Allons voir s’il est présent.</p>
+<p>Here we begin to suspect that the challenge is based on known operating modes, especially if we have made the link with HAFNIUM on SOC Simulator. When looking for the CVE we come across an article from <a href="https://www.mandiant.com/resources/blog/investigating-ivanti-zero-day-exploitation">Mandiant</a> which talks about the vulnerability.</p>
+<p>UNC5221 uses a custom web-shell which it places in the <code>CAV</code> python tool. Let&rsquo;s see if it&rsquo;s present.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>$ tar xvfz tmp_scan_archive_dec.tgz
 </span></span><span style="display:flex;"><span>home/bin/configencrypt
 </span></span><span style="display:flex;"><span>home/venv3/lib/python3.6/site-packages/cav-0.1-py3.6.egg
