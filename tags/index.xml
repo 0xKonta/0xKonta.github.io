@@ -7,11 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Lucas Brohet</copyright>
-    <lastBuildDate>Sun, 14 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://konta-lb.fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://konta-lb.fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://konta-lb.fr/tags/ai/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://konta-lb.fr/tags/ai/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>CTF</title>
       <link>https://konta-lb.fr/tags/ctf/</link>
-      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://konta-lb.fr/tags/ctf/</guid>
       <description></description>

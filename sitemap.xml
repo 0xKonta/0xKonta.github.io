@@ -2,11 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://konta-lb.fr/posts/404-ctf-2024-artificial-intelligence-serie/</loc>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://konta-lb.fr/posts/404-ctf-2024-preview/</loc>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://konta-lb.fr/categories/404ctf2024/</loc>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://konta-lb.fr/tags/ai/</loc>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://konta-lb.fr/categories/</loc>
-    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://konta-lb.fr/tags/ctf/</loc>
-    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://konta-lb.fr/</loc>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://konta-lb.fr/posts/</loc>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://konta-lb.fr/tags/</loc>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://konta-lb.fr/ranking/</loc>
     <lastmod>2024-04-14T00:00:00+00:00</lastmod>
@@ -35,19 +56,10 @@
     <loc>https://konta-lb.fr/tags/forensic/</loc>
     <lastmod>2024-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://konta-lb.fr/</loc>
-    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://konta-lb.fr/tags/misc/</loc>
     <lastmod>2024-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://konta-lb.fr/posts/</loc>
-    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://konta-lb.fr/tags/reverse/</loc>
-    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://konta-lb.fr/tags/</loc>
     <lastmod>2024-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://konta-lb.fr/posts/disparues-2023-bozo35d-osint/</loc>
