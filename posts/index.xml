@@ -28,6 +28,16 @@ Vous décidez de vous amuser un peu. Ils utilisent une intelligence artificielle
     </item>
     
     <item>
+      <title>404 CTF 2024 - Vaut mieux sécuriser que guérir - Forensic</title>
+      <link>https://konta-lb.fr/posts/404-ctf-2024-vaut-mieux-s%C3%A9curiser-que-gu%C3%A9rir/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://konta-lb.fr/posts/404-ctf-2024-vaut-mieux-s%C3%A9curiser-que-gu%C3%A9rir/</guid>
+      <description>Statement Lors d&amp;rsquo;une compétition de lancer de poids, un athlète laisse son ordinateur allumé avec sa session ouverte. Cependant, une personne a utilisé son ordinateur et, a vraisemblablement fait des cachoteries. Nous vous mettons à disposition le dump de la RAM de l&amp;rsquo;ordinateur après l&amp;rsquo;incident. Investiguez ce dump mémoire pour comprendre ce qu&amp;rsquo;il s&amp;rsquo;est passé.
+La deuxième partie du flag est le nom d&amp;rsquo;une certaine tâche. Les deux parties sont séparées d&amp;rsquo;un tiret &amp;ldquo;-&amp;rdquo;.</description>
+    </item>
+    
+    <item>
       <title>FCSC 2024 - Fifty Shades of White - Reverse</title>
       <link>https://konta-lb.fr/posts/fcsc-2024-fifty-shades-of-white-reverse/</link>
       <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
